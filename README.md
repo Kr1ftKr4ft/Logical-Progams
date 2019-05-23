@@ -13,5 +13,5 @@ In this repo i'll try to upload exercises and projects just for educational and 
 know! Same for bugs or any question.
 
 This project will be a huge compilation of programs, like a dev wiki :P
-Every one who want to help is invited!
+Every one who wants to help is invited!
 
