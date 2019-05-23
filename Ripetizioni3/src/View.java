@@ -8,7 +8,8 @@ public class View {
 
 	// Options menu
 	public int menu() {
-		System.out.println("Program by Giovanni D'Andrea  -john4s  V1.1 23/05/2019");		//...
+		System.out.println("By Johnny -john4s  V1.1.1 23/05/2019");		//...
+		System.out.println("https://github.com/Kr1ftKr4ft/Logical-Progams  --For github project \n");
 		System.out.println("1)Binary to decimal");
 		System.out.println("2)Decimal to binary");
 		System.out.println("3)Sum");
