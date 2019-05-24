@@ -33,7 +33,7 @@ public class Main {
 			}
 		} while (flag);
 
-
+		System.out.println("Commit test");
 
 	}
 
