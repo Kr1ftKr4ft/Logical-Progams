@@ -12,6 +12,6 @@ Hello!
 In this repo i'll try to upload exercises and projects just for educational and improvement skill purpose. If you have an idea, just let me 
 know! Same for bugs or any question.
 
-This project will be a huge compilation of programs, like a dev wiki :P
+This project will be a huge compilation of programs, like a dev wiki.
 Every one who wants to help is invited!
 
