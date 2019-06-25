@@ -16,3 +16,6 @@ This project will be a huge compilation of programs, like a dev wiki.
 Every one who wants to help is invited!
 
 Sorry for waiting!
+
+## README:
+### This repo will no longer support due to other projects i'm doing. I will let this repo online just for people who want download those files for improve theirself. Stay tuned!
